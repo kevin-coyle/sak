@@ -11,7 +11,6 @@ A versatile command-line tool powered by AI that helps you with various tasks in
 - 📊 Count letters and words in text
 - 🖼️ Handle and analyze images
 - 🛍️ Check eBay listings
-- ☀️ Check weather conditions
 - ⌨️ Run system commands
 - And more!
 
