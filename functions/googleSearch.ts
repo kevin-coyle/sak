@@ -20,8 +20,10 @@ async function googleSearch(query: string) {
         },
       );
     });
+    console.log(result);
     return result;
   } catch (error) {
+    console.log(error);
     if (error instanceof Error) {
       return `Error performing Google search: ${error.message}`;
     }
